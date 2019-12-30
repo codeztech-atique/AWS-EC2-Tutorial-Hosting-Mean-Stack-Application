@@ -1,5 +1,7 @@
 Install Node Js - 
+
 # Using Ubuntu
+
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
@@ -30,6 +32,9 @@ sudo npm install pm2 -g
 
 pm2 start index.js
 pm2 save
+
+Output
+
 [PM2] Saving current process list...
 [PM2] Successfully saved in /home/ubuntu/.pm2/dump.pm2
 
