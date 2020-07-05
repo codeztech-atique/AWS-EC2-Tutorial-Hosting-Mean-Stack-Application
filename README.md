@@ -7,8 +7,6 @@ https://www.youtube.com/watch?v=6_JXnjorjPk&list=PLwfbCU-sjpjFYC2rbRRNIQsB4ZzyI2
 
 
 
-Install Node Js - 
-
 # Using Ubuntu
 
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
